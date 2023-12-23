@@ -17,7 +17,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-I'm a FullStack Developer passionate about Next.js, React.js, Tailwind CSS, Node.js, Express.js, Prisma, MySQL, and MongoDB. I'm always curious about new tech and I love to learn new technologies. Currently, **I'm open to work and employment opportunities**.
+I'm a Frontend Developer passionate about Next.js, React.js, Tailwind CSS, Node.js, Express.js, Prisma, MySQL, and MongoDB. I'm always curious about new tech and I love to learn new technologies. Currently, **I'm open to work and employment opportunities**.
 
 I love to and listen to music and play guitar.
 
