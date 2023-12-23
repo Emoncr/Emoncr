@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Good to see you.</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -17,21 +17,19 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-I'm a FullStack Developer passionate about Next.js, React.js, Tailwind CSS, Node.js, Express.js, Prisma, MySQL, and MongoDB. I'm always curious about new tech and I love to learn new tecnologys. Currently, **I'm open to work and employment opportunities**.
+I'm a FullStack Developer passionate about Next.js, React.js, Tailwind CSS, Node.js, Express.js, Prisma, MySQL, and MongoDB. I'm always curious about new tech and I love to learn new technologies. Currently, **I'm open to work and employment opportunities**.
 
-I love to and listen to music and playing guitar.
+I love to and listen to music and play guitar.
 
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things, and I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Next.js, React.js, Prisma, Node.js, Express.js, MongoDB and MySQL.
+- 💬 Ask me about Next.js, React.js, Prisma, Node.js, Express.js, MongoDB, and MySQL.
 - 😄 Pronouns: He & Happy 😄
 - :partying_face: Fun fact: I enjoy playing guitar, singing, and traveling.
 - :wrench: Tools - VSCode, Post Man, Git, Chat GPT, Figma.
 
 ### Numbers
-
-![Emoncr's Stats](https://github-readme-stats.vercel.app/api?username=Emoncr&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
 ![Emoncr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emoncr&theme=darcula&hide_border=true)
 
@@ -42,3 +40,4 @@ I love to and listen to music and playing guitar.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplob-hasan-emon/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_Emon_dev)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/biplobhasan.emon/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.link/5hmhry)
