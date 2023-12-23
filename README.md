@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋, Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
@@ -16,25 +17,28 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-<h3 align="center">I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities. I am the co-founder of HappyAddons, one of the most popular and adored Elementor Addons Libraries. I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end-user products, and consumers) every day. I love to read books and listen to music.</h3>
+I'm a FullStack Developer passionate about Next.js, React.js, Tailwind CSS, Node.js, Express.js, Prisma, MySQL, and MongoDB. I'm always curious about new tech and I love to learn new tecnologys. Currently, **I'm open to work and employment opportunities**.
 
-- 🔭 I’m currently working on **Honey & Salt**
+I love to and listen to music and playing guitar.
 
-- 🌱 I’m currently learning **Prisma and MY SQL**
 
-- 💬 Ask me about **Javascript,Node.JS,Express.JS,MongoDB,Next.JS,React.JS**
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 💬 Ask me about Next.js, React.js, Prisma, Node.js, Express.js, MongoDB and MySQL.
+- 😄 Pronouns: He & Happy 😄
+- :partying_face: Fun fact: I enjoy playing guitar, singing, and traveling.
+- :wrench: Tools - VSCode, Post Man, Git, Chat GPT, Figma.
 
-- 📫 How to reach me **biplobemon75945@gmail.com**
+### Numbers
 
-- ⚡ Fun fact **I love music and I love to play guitar.**
+![Emoncr's Stats](https://github-readme-stats.vercel.app/api?username=Emoncr&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_emon_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_emon_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/biplob-hasan-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biplob-hasan-emon" height="30" width="40" /></a>
-<a href="https://fb.com/biplobhasan.emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biplobhasan.emon" height="30" width="40" /></a>
-<a href="https://instagram.com/biplob_hasan_emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biplob_hasan_emon" height="30" width="40" /></a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emoncr&show_icons=true&locale=en&layout=compact" alt="emoncr" /></p>
+![Emoncr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emoncr&theme=darcula&hide_border=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emoncr&show_icons=true&locale=en" alt="emoncr" /></p>
+![Emoncr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emoncr&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biplob-hasan-emon/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_Emon_dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/biplobhasan.emon/)
